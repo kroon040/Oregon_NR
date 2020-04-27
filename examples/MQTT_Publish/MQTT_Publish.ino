@@ -8,8 +8,8 @@ extern "C" {
 
 
 /************************* WiFi *********************************/
-const char* ssid     = "<enter you ssid here";
-const char* password = "<enter your passwd here";
+const char* ssid     = "<enter you ssid here>";
+const char* password = "<enter your passwd here>";
 WiFiClient wifi_client;
 
 
